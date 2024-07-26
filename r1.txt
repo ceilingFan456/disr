@@ -10,12 +10,13 @@ numpy==1.26.4 ## python 3.9-3.12
 omegaconf==2.3.0
 opencv-python==4.6.0.66
 
-pytorch3d==0.7.6 ## This version supports PyTorch 2.2.0
+## pytorch3d==0.7.6 ## This version supports PyTorch 2.2.0
 ## pip install 'git+https://github.com/facebookresearch/pytorch3d.git@v0.7.6'
+## git+https://github.com/facebookresearch/pytorch3d.git@v0.7.6
 
 scikit-image==0.22.0
 scipy==1.12.0
-tinycudann==1.7
+## tinycudann==1.7
 transformers==4.28.1
 tqdm==4.66.2
 torch==2.0.1 ## python 3.7-3.9
